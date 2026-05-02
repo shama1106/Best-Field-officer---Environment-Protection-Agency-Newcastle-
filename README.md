@@ -112,5 +112,5 @@ Advanced SQL used:
 
 This project demonstrates **end-to-end data analytics workflow** from raw data to business insights.
 
-## 📁 Project Structure
+
 
